@@ -90,7 +90,7 @@
     "socket.io": "^2.1.1",
     "swig-templates": "^2.0.2",
     "tether": "^1.4.4",
-    "tmp": "0.0.33",
+    "tmp": "0.2.4",
     "tty2html": "^1.0.0",
     "universal-analytics": "^0.4.17",
     "vex-js": "^4.1.0",
